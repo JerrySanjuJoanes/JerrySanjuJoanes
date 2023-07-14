@@ -18,4 +18,4 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JerrySanjuJoanes&theme=onedark&rank=c)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JerrySanjuJoanes&theme=oldiek&no-bg=true&rank=B,C)](https://github.com/ryo-ma/github-profile-trophy)
