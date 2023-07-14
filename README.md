@@ -14,8 +14,11 @@
 </picture>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerrySanjuJoanes&layout=compact)
+
 
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JerrySanjuJoanes&theme=oldiek&no-bg=true&rank=B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JerrySanjuJoanes&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
