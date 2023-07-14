@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open&pause=1000&center=true&multiline=true&width=435&lines=YO!!+%2C+its+me+Jerry+Sanju+Joanes;++++++++Welcome+to+My+GitHub+Profile!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open&pause=1000&color=F78E0B&center=true&multiline=true&width=435&lines=YO!!+%2C+its+me+Jerry+Sanju+Joanes;++++++++Welcome+to+My+GitHub+Profile!)](https://git.io/typing-svg)
 
 <picture>
   <source
