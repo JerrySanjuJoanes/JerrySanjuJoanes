@@ -13,6 +13,11 @@
 </picture>
 
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote="Your+work+is+going+to+fill+a+large+part+of+your+life,+and+the+only+way+to+be+truly+satisfied+is+to+do+what+you+believe+is+great+work"&author=Steve+Jobs)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+
+
 
 
 
