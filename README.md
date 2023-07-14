@@ -15,3 +15,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerrySanjuJoanes&layout=compact)
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JerrySanjuJoanes&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
