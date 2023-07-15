@@ -1,5 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open&pause=1000&color=F78E0B&center=true&multiline=true&width=435&lines=YO!!+%2C+its+me+Jerry+Sanju+Joanes;++++++++Welcome+to+My+GitHub+Profile!)](https://git.io/typing-svg)
 
+### 👩🏻 About Me
+- 🧑‍💻 **"I'm a Btech Computer Science Student, coding my way to caffeine-fueled enlightenment ☕!"**
+
+- **"I'm cooking up a tech storm with 🍳 HTML, 🎨 CSS, ☕ JavaScript, and full-stack tools, spiced with 🤖 AI and 🧠 ML!"**
+
+- 📧🕊 Send a digital pigeon to: **jerrysanjujoanes000@gmail.com**
+ <br>
+
 
 <div  >
 <picture align="center">
@@ -15,7 +23,7 @@
 </picture>
 
 
-<div text-align="center" margin="20">
+<div text-align="center" >
   <a href="https://streak-stats.demolab.com?user=JerrySanjuJoanes&theme=highcontrast&hide_border=true" target="_blank" rel="noreferrer">
     <img src="https://streak-stats.demolab.com?user=JerrySanjuJoanes&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   </a>
