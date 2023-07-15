@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open&pause=1000&color=F78E0B&center=true&multiline=true&width=435&lines=YO!!+%2C+its+me+Jerry+Sanju+Joanes;++++++++Welcome+to+My+GitHub+Profile!)](https://git.io/typing-svg)
 
+
+<div  >
 <picture align="center">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=JerrySanjuJoanes&show_icons=true&theme=dark"
@@ -17,6 +19,7 @@
   <a href="https://streak-stats.demolab.com?user=JerrySanjuJoanes&theme=highcontrast&hide_border=true" target="_blank" rel="noreferrer">
     <img src="https://streak-stats.demolab.com?user=JerrySanjuJoanes&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   </a>
+</div>
 </div>
 
 
@@ -127,6 +130,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a>
 </p>
+
+
 
 
 
