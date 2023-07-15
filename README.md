@@ -28,12 +28,12 @@
 🔥My Stats Flexing numbers like a data superstar!**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JerrySanjuJoanes&label=Profile%20views&color=0e75b6&style=flat" alt="JerrySanjuJoanes" /> </p>
-<br>
+
 <div >
  
-<br>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" border-radius="100" />
 
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" border-radius="100" />
+<br>
 <picture align="left">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=JerrySanjuJoanes&show_icons=true&theme=dark"
@@ -46,7 +46,7 @@
   <img  width="400" src="https://github-readme-stats.vercel.app/api?username=JerrySanjuJoanes&show_icons=true" />
 </picture>
 
-
+<br>
 <div text-align="right" >
   <a href="https://streak-stats.demolab.com?user=JerrySanjuJoanes&theme=highcontrast&hide_border=true" target="_blank" rel="noreferrer">
     <img width="425" src="https://streak-stats.demolab.com?user=JerrySanjuJoanes&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
@@ -58,18 +58,20 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerrysanjujoanes&show_icons=true&locale=en&layout=compact" alt="jerrysanjujoanes" /></p>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anna-jaison&layout=compact&theme=dark&hide_border=true)
+
+
+<br>
 <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer">
-  <img width="650px" margin="60px" src="https://github-profile-trophy.vercel.app/?username=JerrySanjuJoanes&theme=oldiek&no-bg=true&rank=B,C" alt="trophy" />
+  <img width="900px" margin="60px" src="https://github-profile-trophy.vercel.app/?username=JerrySanjuJoanes&theme=oldiek&no-bg=true&rank=B,C" alt="trophy" />
 </a>
 
 
 
 
-<br>
-<br>
-<br>
+
 
 
 
