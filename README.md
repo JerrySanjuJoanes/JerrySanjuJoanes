@@ -14,7 +14,7 @@
 
 
 <a  href="https://github.com/piyushsuthar/github-readme-quotes" target="_blank" rel="noreferrer">
-  <img align="right" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Your+work+is+going+to+fill+a+large+part+of+your+life,+and+the+only+way+to+be+truly+satisfied+is+to+do+what+you+believe+is+great+work&author=Steve+Jobs" alt="Readme Quotes" />
+  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Your+work+is+going+to+fill+a+large+part+of+your+life,+and+the+only+way+to+be+truly+satisfied+is+to+do+what+you+believe+is+great+work&author=Steve+Jobs" alt="Readme Quotes" />
 </a>
 <br>
 <br>
