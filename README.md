@@ -57,10 +57,18 @@
 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerrysanjujoanes&show_icons=true&locale=en&layout=compact" alt="jerrysanjujoanes" /></p>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer">
+  <img width="650px" margin="60px" src="https://github-profile-trophy.vercel.app/?username=JerrySanjuJoanes&theme=oldiek&no-bg=true&rank=B,C" alt="trophy" />
+</a>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JerrySanjuJoanes&theme=oldiek&no-bg=true&rank=B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+<br>
+<br>
+<br>
 
 
 
@@ -159,7 +167,7 @@
 <br>
 <br>
 
-<img width="930" src="https://github-readme-activity-graph.vercel.app/graph?username=jerrysanjujoanes&bg_color=21232a&color=F78E0B&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<img width="930" src="https://github-readme-activity-graph.vercel.app/graph?username=jerrysanjujoanes&bg_color=21232a&color=F78E0B&line=D17000&point=f0fcff&area=true&hide_border=false" />
 
 
 
@@ -194,10 +202,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerrysanjujoanes&show_icons=true&locale=en&layout=compact" alt="jerrysanjujoanes" /></p>
 
 
 
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&width="930"&quote="Your+work+is+going+to+fill+a+large+part+of+your+life,+and+the+only+way+to+be+truly+satisfied+is+to+do+what+you+believe+is+great+work"&author=Steve+Jobs)](https://github.com/piyushsuthar/github-readme-quotes)
+
