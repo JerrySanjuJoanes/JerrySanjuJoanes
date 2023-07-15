@@ -1,13 +1,16 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F78E0B&center=true&vCenter=true&width=500&height=90&lines=YO!!++its+me+Jerry+Sanju+Joanes+++++++++++;+++Welcome+to++My+GitHub+Profile!" alt="Typing SVG" /></a>
 
-### 👩🏻 About Me
-- 🧑‍💻 **"I'm a Btech Computer Science Student, coding my way to caffeine-fueled enlightenment ☕!"**
+### 📜 About Me
+- 🧑‍💻 **I'm a Btech Computer Science Student, coding my way to caffeine-fueled enlightenment ☕!**
 
-- **"I'm cooking up a tech storm with 🍳 HTML, 🎨 CSS, ☕ JavaScript, and full-stack tools, spiced with 🤖 AI and 🧠 ML!"**
+- **I'm cooking up a tech storm with 🍳 HTML, 🎨 CSS, ☕ JavaScript, and full-stack tools, spiced with 🤖 AI and 🧠 ML!**
 
 - 📧🕊 Send a digital pigeon to: **jerrysanjujoanes000@gmail.com**
  <br>
 
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote="Your+work+is+going+to+fill+a+large+part+of+your+life,+and+the+only+way+to+be+truly+satisfied+is+to+do+what+you+believe+is+great+work"&author=Steve+Jobs)](https://github.com/piyushsuthar/github-readme-quotes)
+<br>
 ### 🔥 My Stats Flexing numbers like a data superstar!
 <br>
 <div  >
@@ -32,7 +35,6 @@
 </div>
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote="Your+work+is+going+to+fill+a+large+part+of+your+life,+and+the+only+way+to+be+truly+satisfied+is+to+do+what+you+believe+is+great+work"&author=Steve+Jobs)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
@@ -90,9 +92,7 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
+  
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
