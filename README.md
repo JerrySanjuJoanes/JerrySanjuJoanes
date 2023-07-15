@@ -24,8 +24,7 @@
 <br>
 
 
-<br>
-🔥My Stats Flexing numbers like a data superstar!**
+### 🔥 My Stats Flexing numbers like a data superstar!!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JerrySanjuJoanes&label=Profile%20views&color=0e75b6&style=flat" alt="JerrySanjuJoanes" /> </p>
 
