@@ -170,7 +170,7 @@
 <br>
 <br>
 
-<img width="930" src="https://github-readme-activity-graph.vercel.app/graph?username=jerrysanjujoanes&bg_color=21232a&color=F78E0B&line=D17000&point=f0fcff&area=true&hide_border=false" />
+<img width="930" src="https://github-readme-activity-graph.vercel.app/graph?username=jerrysanjujoanes&bg_color=21232a&color=F78E0B&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 
 
 
