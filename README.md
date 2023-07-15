@@ -13,8 +13,8 @@
 <br>
 ### 🔥 My Stats Flexing numbers like a data superstar!
 <br>
-<div  >
-<picture align="center">
+<div >
+<picture align="left">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=JerrySanjuJoanes&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -23,13 +23,13 @@
     srcset="https://github-readme-stats.vercel.app/api?username=JerrySanjuJoanes&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=JerrySanjuJoanes&show_icons=true" />
+  <img  width="400" src="https://github-readme-stats.vercel.app/api?username=JerrySanjuJoanes&show_icons=true" />
 </picture>
 
 
-<div text-align="center" >
+<div text-align="right" >
   <a href="https://streak-stats.demolab.com?user=JerrySanjuJoanes&theme=highcontrast&hide_border=true" target="_blank" rel="noreferrer">
-    <img src="https://streak-stats.demolab.com?user=JerrySanjuJoanes&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+    <img width="425" src="https://streak-stats.demolab.com?user=JerrySanjuJoanes&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 </div>
@@ -165,8 +165,7 @@
 
 
 
-
-
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=jerrysanjujoanes&bg_color=21232a&color=F78E0B&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 
 
 
