@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img alogn="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F78E0B&center=true&vCenter=true&width=500&height=90&lines=YO!!++its+me+Jerry+Sanju+Joanes+++++++++++;+++Welcome+to++My+GitHub+Profile!" alt="Typing SVG" /></a>
-### 📜 About Me
+### 📜 About Me 
 - 🧑‍💻 **I'm a Btech Computer Science Student, coding my way to caffeine-fueled enlightenment ☕!**
 
 - **I'm cooking up a tech storm with 🍳 HTML, 🎨 CSS, ☕ JavaScript, and full-stack tools, spiced with 🤖 AI and 🧠 ML!**
@@ -10,9 +10,7 @@
  <br>
  <br>
 
-
-
-<a  href="https://github.com/piyushsuthar/github-readme-quotes" target="_blank" rel="noreferrer">
+<a href="https://github.com/piyushsuthar/github-readme-quotes" target="_blank" rel="noreferrer">
   <img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Your+work+is+going+to+fill+a+large+part+of+your+life,+and+the+only+way+to+be+truly+satisfied+is+to+do+what+you+believe+is+great+work&author=Steve+Jobs" alt="Readme Quotes" />
 </a>
 <br>
@@ -22,11 +20,9 @@
 <br>
 <br>
 
-
 ### 🔥 My Stats Flexing numbers like a data superstar!!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JerrySanjuJoanes&label=Profile%20views&color=0e75b6&style=flat" alt="JerrySanjuJoanes" /> </p>
-
 <div >
 
 
@@ -55,26 +51,12 @@
 
 
 
-
-
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerrySanjuJoanes&layout=compact&theme=dark&hide_border=true)
-
-
 <br>
+
 <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer">
   <img width="900px" margin="60px" src="https://github-profile-trophy.vercel.app/?username=JerrySanjuJoanes&theme=oldiek&no-bg=true&rank=B,C" alt="trophy" />
 </a>
-
-
-
-
-
-
-
-
-
 <br>
 <br>
 <br>
@@ -138,36 +120,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br>
 <br>
+
 
 <img width="930" src="https://github-readme-activity-graph.vercel.app/graph?username=jerrysanjujoanes&bg_color=21232a&color=F78E0B&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 
